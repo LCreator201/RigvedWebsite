@@ -1,0 +1,21 @@
+
+    p{
+        color: green ;
+    } 
+    *{
+        border: outset;
+        border-left-style: inset;
+        border-color:honeydew ; 
+        border-top-width: 20px red;
+    }
+    .Rock{ 
+        background-color: rgb(0, 238, 255);
+    }
+    
+    .img{
+        display: flex;
+        justify-content: flex-end;
+    }
+   
+
+        
